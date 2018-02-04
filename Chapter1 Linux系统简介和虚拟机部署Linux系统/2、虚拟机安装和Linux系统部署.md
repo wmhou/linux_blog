@@ -74,7 +74,7 @@ vm的安装是比较简单的，按照提示一直下一步就可以完成安装
 
 10. 网络适配器：这里选择“仅主机模式”，只与主机通信；
 
-    ![](image/vmware10.png)
+   ![](image/vmware10.png)
 
 11. 移除“USB控制器”、“声卡”、“打印机”这三项，我们用不到；
 
@@ -128,7 +128,7 @@ vm的安装是比较简单的，按照提示一直下一步就可以完成安装
 
 10. 返回初始化界面，点击FINISH CONFIGURATION按钮；
 
-    ![](image/redhat14.png)
+   ![](image/redhat14.png)
 
 11. 弹出Kdump服务设置界面，点击forward按钮；
 
@@ -158,6 +158,8 @@ vm的安装是比较简单的，按照提示一直下一步就可以完成安装
 
     ![](image/redhat20.png)
 
-18. 最终界面显示如下，开始我们的Linux之旅吧！
+18. 成功！！最终界面显示如下：
 
     ![](image/redhat21.png)
+
+[下篇：Chapter1：3、远程链接Linux服务器](3、远程连接Linux服务器.md)
